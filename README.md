@@ -55,9 +55,10 @@ NLP-based applications.
 
 Feel free to reach out if you share similar interests or have exciting projects in mind! Let's create something amazing together. 😊
 
-# 📫 Contact
+# 📫 Socials
 
 LinkedIn: Aswin Ramanathan 
+YouTube: https://www.youtube.com/@TheIkigaiCodingCollectiv-of7bu
 
 
 Looking forward to connecting with fellow developers and enthusiasts! 🚀
