@@ -37,8 +37,6 @@ I am actively learning the intricacies of Go and continually seeking to enhance 
 
 NLP-based applications
 
-App development 
-
 GoLang
 
 Python
