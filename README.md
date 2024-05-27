@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # Aswin Ramanathan - GitHub Profile
 
-Hello there! 👋 I'm Aswin Ramanathan, a final-year student based in Chennai, India, currently pursuing my education at Anna University. I'm passionate about GoLang, backend development, and GenAI for creating floor layouts. My current focus is on honing my skills in Go and exploring the fascinating world of natural language processing (NLP)-based applications.
+Hello there! 👋 I'm Aswin Ramanathan, a final-year student based in Chennai, India, currently pursuing my education at Anna University. I'm passionate about GoLang, backend development, and GenAI. My current focus is on honing my skills in Go and exploring the fascinating world of natural language processing (NLP)-based applications.
 
 # 🔧 Current Projects
 
@@ -46,8 +46,6 @@ Python
 I am open to collaboration on the following projects:
 
 GoLang backend projects.
-
-App development projects.
 
 NLP-based applications.
 
