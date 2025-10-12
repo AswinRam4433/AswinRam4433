@@ -22,12 +22,7 @@ Here are some ideas to get you started:
 
 # Aswin Ramanathan - GitHub Profile
 
-Hello there! 👋 I'm Aswin Ramanathan, your friendly neighbourhood coder based in Chennai, India. I'm passionate about GoLang, backend development, and GenAI. My current focus is on honing my skills in Go and exploring the fascinating world of Generative AI and LLMs.
-
-# 🔧 Current Projects
-
-Working on GoLang-based backend projects.
-Tinkering with LLMs.
+Hello there! 👋 I'm Aswin Ramanathan, your friendly neighbourhood coder based out of India. I'm passionate about Go, backend development, and GenAI. My current focus is on honing my skills in Go and exploring the fascinating world of Generative AI and LLMs.
 
 
 # 🤝 Collaboration
