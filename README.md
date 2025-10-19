@@ -22,18 +22,17 @@ Here are some ideas to get you started:
 
 # Aswin Ramanathan - GitHub Profile
 
-Hello there! 👋 I'm Aswin Ramanathan, your friendly neighbourhood coder based out of India. I'm passionate about Go, backend development, and GenAI. My current focus is on honing my skills in Go and exploring the fascinating world of Generative AI and LLMs.
+Hello there! I'm Aswin Ramanathan, your friendly neighbourhood coder based out of India. I'm passionate about Go, backend development, and GenAI. My current focus is on honing my skills in Go and exploring the fascinating world of Generative AI and LLMs.
 
 
-# 🤝 Collaboration
+# Collaboration
 
-Feel free to reach out if you share similar interests or have exciting projects in mind! Let's create something amazing together. 😊
+Feel free to reach out if you share similar interests or have exciting projects in mind! Let's create something amazing together. 
 
-# 📫 Socials
+# Socials
 
 LinkedIn: Aswin Ramanathan 
 
 YouTube: https://www.youtube.com/@TheIkigaiCodingCollectiv-of7bu
 
-
-Looking forward to connecting with fellow developers and enthusiasts! 🚀
+Looking forward to connecting with fellow developers and enthusiasts! 
